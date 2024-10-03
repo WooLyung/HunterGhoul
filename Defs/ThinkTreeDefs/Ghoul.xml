@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThinkTreeDef>
+        <defName>GhoulHunt</defName>
+        <insertTag>Ghoul_PreWander</insertTag>
+        <thinkRoot Class="HunterGhoul.JobGiver_GhoulHunt"/>
+    </ThinkTreeDef>
+</Defs>

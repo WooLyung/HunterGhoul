@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HunterGhoul\Assemblies\HunterGhoul.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HunterGhoul\Assemblies\HunterGhoul.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HunterGhoul\Source\HunterGhoul\HunterGhoul\obj\Debug\HunterGhoul.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HunterGhoul\Source\HunterGhoul\HunterGhoul\obj\Debug\HunterGhoul.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HunterGhoul\Source\HunterGhoul\HunterGhoul\obj\Debug\HunterGhoul.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\HunterGhoul\Source\HunterGhoul\HunterGhoul\obj\Debug\HunterGhoul.pdb

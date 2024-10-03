@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Hunter Ghoul</name>
+    <author>Woolyung</author>
+    <packageId>Woolyung.HunterGhoul</packageId>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <description>
+Ghouls can hunt animals.
+    </description>
+	<loadAfter>
+		<li>Ludeon.Rimworld.Anomaly</li>
+	</loadAfter>
+</ModMetaData>

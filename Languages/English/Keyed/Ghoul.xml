@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <IsHunterGhoulLabel>Hunter ghoul</IsHunterGhoulLabel>
+    <IsHunterGhoulDesc>Ghouls hunt animals as hunters.
+
+The ghoul only hunts animals that have been marked for hunting, and will not pursue targets if its health is too low.</IsHunterGhoulDesc>
+    <HealthThresholdForHuntTitle>Health threshold</HealthThresholdForHuntTitle>
+    <HealthThresholdForHuntTip>It's the threshold at which the ghoul starts hunting.
+
+If the ghoul's physical health percent is greater than or equal to {0}%, it will start hunting.</HealthThresholdForHuntTip>
+</LanguageData>

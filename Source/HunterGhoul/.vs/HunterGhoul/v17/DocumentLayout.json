@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\source\\hunterghoul\\hunterghoul\\gizmo\\healththresholdforhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\gizmo\\healththresholdforhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\source\\hunterghoul\\hunterghoul\\patch\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\patch\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\source\\hunterghoul\\hunterghoul\\hediffcomp\\hediffcomp_ghoulhuntdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\hediffcomp\\hediffcomp_ghoulhuntdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\source\\hunterghoul\\hunterghoul\\hediffcompproperties\\hediffcompproperties_ghoulhuntdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\hediffcompproperties\\hediffcompproperties_ghoulhuntdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\source\\hunterghoul\\hunterghoul\\jobgiver\\jobgiver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\jobgiver\\jobgiver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobGiver_GhoulHunt.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
+              "RelativeDocumentMoniker": "HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
+              "RelativeToolTip": "HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:39:48.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthThresholdForHunt.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
+              "RelativeDocumentMoniker": "HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
+              "RelativeToolTip": "HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:35:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HediffCompProperties_GhoulHuntData.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\HediffCompProperties\\HediffCompProperties_GhoulHuntData.cs",
+              "RelativeDocumentMoniker": "HunterGhoul\\HediffCompProperties\\HediffCompProperties_GhoulHuntData.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\HediffCompProperties\\HediffCompProperties_GhoulHuntData.cs",
+              "RelativeToolTip": "HunterGhoul\\HediffCompProperties\\HediffCompProperties_GhoulHuntData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:35:44.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\Patch\\Pawn.cs",
+              "RelativeDocumentMoniker": "HunterGhoul\\Patch\\Pawn.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\Patch\\Pawn.cs",
+              "RelativeToolTip": "HunterGhoul\\Patch\\Pawn.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:31:01.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HediffComp_GhoulHuntData.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\HediffComp\\HediffComp_GhoulHuntData.cs",
+              "RelativeDocumentMoniker": "HunterGhoul\\HediffComp\\HediffComp_GhoulHuntData.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\Source\\HunterGhoul\\HunterGhoul\\HediffComp\\HediffComp_GhoulHuntData.cs",
+              "RelativeToolTip": "HunterGhoul\\HediffComp\\HediffComp_GhoulHuntData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:30:59.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
