@@ -5,6 +5,7 @@
     <packageId>Woolyung.HunterGhoul</packageId>
     <supportedVersions>
         <li>1.5</li>
+        <li>1.6</li>
     </supportedVersions>
     <description>
 Ghouls can hunt animals.
