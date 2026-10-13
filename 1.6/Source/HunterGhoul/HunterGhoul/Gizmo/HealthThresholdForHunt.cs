@@ -5,6 +5,7 @@ namespace HunterGhoul
 {
     public class HealthThresholdForHunt : Gizmo_Slider
     {
+        private bool draggingBar = false;
         private HediffComp_GhoulHuntData comp;
 
         public HealthThresholdForHunt(HediffComp_GhoulHuntData comp)
@@ -22,6 +23,12 @@ namespace HunterGhoul
         protected override bool IsDraggable => true;
 
         protected override string Title => "HealthThresholdForHuntTitle".Translate();
+
+        protected override bool DraggingBar
+        {
+            get => draggingBar;
+            set => draggingBar = value;
+        }
 
         protected override string GetTooltip() => "";
 

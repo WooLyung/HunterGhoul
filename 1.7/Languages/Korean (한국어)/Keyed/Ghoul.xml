@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <IsHunterGhoulLabel>구울 사냥꾼</IsHunterGhoulLabel>
+    <IsHunterGhoulDesc>구울이 사냥꾼으로서 동물들을 사냥합니다.
+
+구울은 사냥 명령이 내려진 동물만을 사냥하며, 너무 체력이 낮다면 사냥하지 않습니다.</IsHunterGhoulDesc>
+    <HealthThresholdForHuntTitle>체력 임계점</HealthThresholdForHuntTitle>
+    <HealthThresholdForHuntTip>구울이 사냥을 시작하기 위한 체력 임계점입니다.
+
+구울의 체력 비율이 {0}% 이상이라면 사냥을 시작합니다.</HealthThresholdForHuntTip>
+</LanguageData>

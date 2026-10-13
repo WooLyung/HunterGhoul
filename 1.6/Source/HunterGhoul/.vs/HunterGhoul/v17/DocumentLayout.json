@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\1.6\\source\\hunterghoul\\hunterghoul\\jobdriver\\jobdriver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\jobdriver\\jobdriver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\1.6\\source\\hunterghoul\\hunterghoul\\jobgiver\\jobgiver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\jobgiver\\jobgiver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\1.6\\source\\hunterghoul\\hunterghoul\\gizmo\\healththresholdforhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\gizmo\\healththresholdforhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\hunterghoul\\1.6\\source\\hunterghoul\\hunterghoul\\patch\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\hunterghoul\\jobdriver\\jobdriver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\jobdriver\\jobdriver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\hunterghoul\\jobgiver\\jobgiver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\jobgiver\\jobgiver_ghoulhunt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\hunterghoul\\patch\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D4FD81-7A83-4584-811D-F7945D90662B}|HunterGhoul\\HunterGhoul.csproj|solutionrelative:hunterghoul\\patch\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,43 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JobDriver_GhoulHunt.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\HunterGhoul\\JobDriver\\JobDriver_GhoulHunt.cs",
               "RelativeDocumentMoniker": "HunterGhoul\\JobDriver\\JobDriver_GhoulHunt.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\HunterGhoul\\JobDriver\\JobDriver_GhoulHunt.cs",
               "RelativeToolTip": "HunterGhoul\\JobDriver\\JobDriver_GhoulHunt.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAowDsAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAhwBYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:24:03.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:24:03.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JobGiver_GhoulHunt.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
               "RelativeDocumentMoniker": "HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
               "RelativeToolTip": "HunterGhoul\\JobGiver\\JobGiver_GhoulHunt.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:21:26.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:21:26.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HealthThresholdForHunt.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
               "RelativeDocumentMoniker": "HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\HunterGhoul\\1.6\\Source\\HunterGhoul\\HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
               "RelativeToolTip": "HunterGhoul\\Gizmo\\HealthThresholdForHunt.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAA9AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T09:20:49.133Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "HunterGhoul\\Patch\\Pawn.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAD4vxoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:17:54.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:17:54.218Z"
             }
           ]
         }
